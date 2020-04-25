@@ -1,6 +1,6 @@
 # HumanTracking
 Implemantation of the human tracking system on videos using the YOLO3 model with SORT algorithm support 
-### Preparation:  
+### Preparation  
 #### First, before you run this, you’ll need to run the download_weights.sh script in the config folder to download the Yolo weights file. 
 #### Next, please install these modules to your interpreter (for example Anaconda frameword) or insure that they already installed:
 1) OpenCV  
