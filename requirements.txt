@@ -1,0 +1,10 @@
+filterpy.kalman
+PIL
+numba
+numpy
+matplotlib
+skimage
+sklearn
+argparse
+glob
+__future__
