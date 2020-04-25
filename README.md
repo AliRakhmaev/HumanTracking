@@ -6,7 +6,7 @@ Implemantation of the human tracking system on videos using the YOLO3 model with
 1) OpenCV  
 2) PyTorch > 1.0.0      
 #### Finally, install all dependencies from requirements.txt  
-###How to use
+### How to use
 Typical call looks like this: ```object_tracker.py -v "videos/TownCentreXVID.avi"
 There the -v means path to video including the file name and extension (.avi and .mp4 are tested). Here path is "videos/TownCentreXVID.avi" and it is <b>relative</b>.
 
